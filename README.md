@@ -20,3 +20,18 @@ This Spring Boot project demonstrates a full-stack backend system with:
     ✅ Unit and Integration Tests using JUnit, Mockito, Testcontainers, and Embedded Kafka/Redis
 
 Tech Stack: Spring Boot, Keycloak, Kafka, Redis, PostgreSQL, Spring Security, JUnit, Testcontainers
+
+📘 Projektbeschreibung
+
+Dieses Spring-Boot-Projekt demonstriert ein vollständiges Backend-System mit:
+
+    🔐 Authentifizierung mit Keycloak (für Benutzer und Administratoren)
+    ✍️ Beitragsverwaltung durch Administratoren
+    🔔 Benachrichtigungen für Benutzer über Kafka, wenn neue Beiträge erstellt werden
+    📬 Abonnement-System, damit Benutzer Benachrichtigungen über neue Beiträge erhalten
+    💬 Suchverlauf wird in Redis gespeichert
+    🛢️ Datenpersistenz in PostgreSQL
+    ✅ Unit- und Integrationstests mit JUnit, Mockito, Testcontainers und Embedded Kafka/Redis
+
+Tech-Stack: Spring Boot, Keycloak, Kafka, Redis, PostgreSQL, Spring Security, JUnit, Testcontainers
+
